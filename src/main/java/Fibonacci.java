@@ -16,7 +16,7 @@ public class Fibonacci {
         }
 
         if (n > -1 && n < 94) {
-            long[] f = {0 ,1};
+            long[] f = {0, 1};
             long fn;
 
             for (int i = 0; i < n; ++i) {
